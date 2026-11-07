@@ -1,0 +1,86 @@
+{
+ "captured": "real MOEX ISS snapshot",
+ "rows": [
+  {
+   "SECID": "LKOH",
+   "LAST": 6091.5,
+   "LASTCHANGEPRCNT": -0.01,
+   "TRADINGSTATUS": "T",
+   "UPDATETIME": "18:38:38",
+   "SYSTIME": "2026-11-07 18:53:38",
+   "SHORTNAME": "ЛУКОЙЛ"
+  },
+  {
+   "SECID": "MGNT",
+   "LAST": 1901,
+   "LASTCHANGEPRCNT": 0.03,
+   "TRADINGSTATUS": "T",
+   "UPDATETIME": "18:38:40",
+   "SYSTIME": "2026-11-07 18:53:40",
+   "SHORTNAME": "Магнит ао"
+  },
+  {
+   "SECID": "NVTK",
+   "LAST": 1143,
+   "LASTCHANGEPRCNT": 0.01,
+   "TRADINGSTATUS": "T",
+   "UPDATETIME": "18:38:26",
+   "SYSTIME": "2026-11-07 18:53:26",
+   "SHORTNAME": "Новатэк ао"
+  },
+  {
+   "SECID": "OZON",
+   "LAST": 3771.5,
+   "LASTCHANGEPRCNT": -0.01,
+   "TRADINGSTATUS": "T",
+   "UPDATETIME": "18:38:29",
+   "SYSTIME": "2026-11-07 18:53:29",
+   "SHORTNAME": "Озон"
+  },
+  {
+   "SECID": "ROSN",
+   "LAST": 363.45,
+   "LASTCHANGEPRCNT": 0.04,
+   "TRADINGSTATUS": "T",
+   "UPDATETIME": "18:38:39",
+   "SYSTIME": "2026-11-07 18:53:39",
+   "SHORTNAME": "Роснефть"
+  },
+  {
+   "SECID": "SBER",
+   "LAST": 293.92,
+   "LASTCHANGEPRCNT": 0.03,
+   "TRADINGSTATUS": "T",
+   "UPDATETIME": "18:38:41",
+   "SYSTIME": "2026-11-07 18:53:41",
+   "SHORTNAME": "Сбербанк"
+  },
+  {
+   "SECID": "TATN",
+   "LAST": 612.2,
+   "LASTCHANGEPRCNT": 0.08,
+   "TRADINGSTATUS": "T",
+   "UPDATETIME": "18:38:38",
+   "SYSTIME": "2026-11-07 18:53:38",
+   "SHORTNAME": "Татнфт 3ао"
+  },
+  {
+   "SECID": "VTBR",
+   "LAST": 57.14,
+   "LASTCHANGEPRCNT": -0.04,
+   "TRADINGSTATUS": "T",
+   "UPDATETIME": "18:38:41",
+   "SYSTIME": "2026-11-07 18:53:41",
+   "SHORTNAME": "ВТБ ао"
+  },
+  {
+   "SECID": "YDEX",
+   "LAST": 3417,
+   "LASTCHANGEPRCNT": 0.01,
+   "TRADINGSTATUS": "T",
+   "UPDATETIME": "18:38:39",
+   "SYSTIME": "2026-11-07 18:53:39",
+   "SHORTNAME": "ЯНДЕКС"
+  }
+ ]
+}

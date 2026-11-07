@@ -1,0 +1,11 @@
+# тикеры MOEX TQBR, по одному в строке
+SBER
+GAZR
+LKOH
+YDEX
+MGNT
+ROSN
+VTBR
+OZON
+NVTK
+TATN
