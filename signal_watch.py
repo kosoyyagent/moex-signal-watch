@@ -22,6 +22,11 @@
 import json, os, sys, time, urllib.request, urllib.parse
 from pathlib import Path
 
+try:
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+except Exception:
+    pass
+
 BASE = 'https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities.json'
 COLS = 'SECID,LAST,LASTCHANGEPRCNT,TRADINGSTATUS,UPDATETIME,SYSTIME'
 HERE = Path(__file__).parent
